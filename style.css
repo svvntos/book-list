@@ -7,6 +7,12 @@ body {
     color: white;
 }
 
+h1{
+    text-align: center;
+    justify-content: center;
+    margin-top: 1em;
+}
+
 .submit {
     background-color:powderblue;
     color: purple;
