@@ -2,6 +2,16 @@
     box-sizing: border-box;
 }
 
+body {
+    background: linear-gradient(to right, #7f00ff, #e100ff);
+    color: white;
+}
+
+.submit {
+    background-color:powderblue;
+    color: purple;
+}
+
 .success , .error {
     color: white;
     padding: 5px;
